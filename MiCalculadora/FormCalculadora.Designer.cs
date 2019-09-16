@@ -91,24 +91,27 @@
             // 
             // cmbOperador
             // 
+            this.cmbOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperador.FormattingEnabled = true;
             this.cmbOperador.Location = new System.Drawing.Point(127, 58);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(75, 21);
+            this.cmbOperador.Size = new System.Drawing.Size(75, 28);
             this.cmbOperador.TabIndex = 1;
             // 
             // txtNum1
             // 
+            this.txtNum1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNum1.Location = new System.Drawing.Point(46, 59);
             this.txtNum1.Name = "txtNum1";
-            this.txtNum1.Size = new System.Drawing.Size(65, 20);
+            this.txtNum1.Size = new System.Drawing.Size(65, 26);
             this.txtNum1.TabIndex = 0;
             // 
             // txtNum2
             // 
+            this.txtNum2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNum2.Location = new System.Drawing.Point(219, 59);
             this.txtNum2.Name = "txtNum2";
-            this.txtNum2.Size = new System.Drawing.Size(64, 20);
+            this.txtNum2.Size = new System.Drawing.Size(64, 26);
             this.txtNum2.TabIndex = 2;
             // 
             // lblResultado
